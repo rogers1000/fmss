@@ -1,0 +1,163 @@
+Round,Pick,Team,Player,Position,Value,CA
+1,1,McKins,V. van Dijk,DEF,63,180
+1,2,WorkTheSpace,M. Salah,FWD,85,184
+1,3,TomFM,R. Lukaku,FWD,70,174
+1,4,Zealand,H. Kane,FWD,89,184
+1,5,Curty,C. Ronaldo,FWD,85,182
+1,6,Dave,K. De Bruyne,MID,93,188
+1,7,SYC,B. Silva,MID,50,170
+1,8,SLF,B. Fernandes,MID,73,172
+1,9,Lollujo,J.Grealish,MID,66,168
+2,10,Lollujo,N. Kante,MID,63,165
+2,11,SLF,S. Mane,FWD,81,177
+2,12,SYC,H-M Son,FWD,73,172
+2,13,Dave,R. Dias,DEF,61,169
+2,14,Curty,R. Firmino,FWD,68,162
+2,15,Zealand,R. Varane,DEF,54,165
+2,16,TomFM,A. Laporte,DEF,59,168
+2,17,WorkTheSpace,K. Zouma,DEF,38,156
+2,18,McKins,J. Ward-Prowse,MID,25.5,148
+3,19,McKins,R. Sterling,FWD,30,167
+3,20,WorkTheSpace,T. Alexander-Arnold,DEF,25.5,159
+3,21,TomFM,A. Robertson,DEF,35.5,159
+3,22,Zealand,J. Henderson,MID,43.5,159
+3,23,Curty,D. Calvert-Lewin,FWD,34,152
+3,24,Dave,R. Jimenez,FWD,34,152
+3,25,SYC,A. Rudiger,DEF,43,159
+3,26,SLF,J. Matip,DEF,38,156
+3,27,Lollujo,J.Gomez,DEF,34,153
+4,28,Lollujo,Ederson,GK,37.5,170
+4,29,SLF,Fabinho,MID,28.5,164
+4,30,SYC,Gabriel,DEF,23,147
+4,31,Dave,P. Pogba,MID,63,168
+4,32,Curty,J. Stones,DEF,34,154
+4,33,Zealand,D. Rice,MID,32.5,152
+4,34,TomFM,J. Cancelo,DEF,39,158
+4,35,WorkTheSpace,M. Rashford,FWD,48,159
+4,36,McKins,H. Maguire,DEF,38,157
+5,37,McKins,K. Tierney,DEF,41,155
+5,38,WorkTheSpace,Fernandinho,MID,55,164
+5,39,TomFM,R. Mahrez,FWD,46,158
+5,40,Zealand,D. Ings,FWD,40,158
+5,41,Curty,C. Soyuncu,DEF,17.5,152
+5,42,Dave,R. Neves,MID,32.5,152
+5,43,SYC,T. Soucek,MID,14.25,150
+5,44,SLF,E. Cavani,FWD,40,155
+5,45,Lollujo,T.Werner,FWD,40,154
+6,46,Lollujo,T.Silva,DEF,38,156
+6,47,SLF,Raphinha,FWD,38,154
+6,48,SYC,M. Odegaard,MID,40,155
+6,49,Dave,T. Mings,DEF,16.25,140
+6,50,Curty,R. James,DEF,27,151
+6,51,Zealand,B. Saka,MID,40,150
+6,52,TomFM,M. Mount,MID,30,160
+6,53,WorkTheSpace,K. Havertz,MID,36,159
+6,54,McKins,J. Sancho,MID,30,162
+7,55,McKins,D. Jota,FWD,40,155
+7,56,WorkTheSpace,Alisson,GK,57,174
+7,57,TomFM,Jorginho,MID,43.5,156
+7,58,Zealand,L. Shaw,DEF,34,155
+7,59,Curty,L. Digne,DEF,12.75,150
+7,60,Dave,A. Telles,DEF,16.5,143
+7,61,SYC,Jonny,DEF,21.5,147
+7,62,SLF,B. Chilwell,DEF,12.75,154
+7,63,Lollujo,T.Castagne,DEF,20.5,146
+8,64,Lollujo,G.Jesus,FWD,44,157
+8,65,SLF,E. Mendy,GK,45,161
+8,66,SYC,S. Reguilon,DEF,20.5,146
+8,67,Dave,E. Martinez,GK,30,143
+8,68,Curty,I. Gundogan,MID,49.5,161
+8,69,Zealand,R. Pereira,DEF,19.25,151
+8,70,TomFM,K. Schmeichel,GK,11.25,150
+8,71,WorkTheSpace,W. Fofana,DEF,29,148
+8,72,McKins,Rodri,MID,42,157
+9,73,McKins,Y. Tielemans,MID,43.5,158
+9,74,WorkTheSpace,P. Foden,MID,40,155
+9,75,TomFM,A.Saint-Maximin,FWD,34,152
+9,76,Zealand,E. Buendia,MID,18,142
+9,77,Curty,M. Kovacic,MID,38,154
+9,78,Dave,P-E. Aubameyang,FWD,30,156
+9,79,SYC,J. Vardy,FWD,44,157
+9,80,SLF,Thiago,MID,28.5,164
+9,81,Lollujo,K.Walker,DEF,35.5,156
+10,82,Lollujo,M.Cucurella,DEF,25.5,148
+10,83,SLF,N. Semedo,DEF,23,148
+10,84,SYC,Y. Bissouma,MID,34,149
+10,85,Dave,H. Ziyech,MID,40,151
+10,86,Curty,I. Konate,DEF,10,136
+10,87,Zealand,W. Ndidi,MID,32.5,152
+10,88,TomFM,B.White,DEF,23,144
+10,89,WorkTheSpace,N. Keita,MID,38,152
+10,90,McKins,C. Azpilicueta,DEF,34,150
+11,91,McKins,J. Milner,MID,32.5,152
+11,92,WorkTheSpace,I. Toney,FWD,19.5,134
+11,93,TomFM,Rodrigo,FWD,27,148
+11,94,Zealand,C. Hudson-Odoi,MID,22.5,147
+11,95,Curty,F. Torres,FWD,15,150
+11,96,Dave,P. Porro,DEF,20.5,146
+11,97,SYC,P-E. Hojbjerg,MID,23,146
+11,98,SLF,K. Ajer,DEF,14.75,141
+11,99,Lollujo,A.O-Chamberlain,MID,25.5,151
+12,100,Lollujo,J.Maddison,MID,25.5,148
+12,101,SLF,K. Phillips,MID,61,150
+12,102,SYC,W.Boly,DEF,19,144
+12,103,Dave,A. Traore,MID,27,148
+12,104,Curty,S. McTominay,MID,23,144
+12,105,Zealand,M. Greenwood,FWD,27,148
+12,106,TomFM,L.Bailey,MID,32,151
+12,107,WorkTheSpace,K. Tsimikas,DEF,8.5,137
+12,108,McKins,A. Christensen,DEF,36,155
+13,109,McKins,A. Martial,FWD,28.5,149
+13,110,WorkTheSpace,S. Dallas,MID,25.5,148
+13,111,TomFM,J.Justin,DEF,16.5,143
+13,112,Zealand,A. Tuanzebe,DEF,11.75,138
+13,113,Curty,J. Lingard,MID,18,142
+13,114,Dave,J. Evans,DEF,25.5,149
+13,115,SYC,S.Benrahma,MID,14,139
+13,116,SLF,Richarlison,FWD,15,148
+13,117,Lollujo,N.Ake,DEF,23,147
+14,118,Lollujo,A.Lacazette,FWD,24,146
+14,119,SLF,C. Coady,DEF,11.75,136
+14,120,SYC,D.Henderson,GK,17,144
+14,121,Dave,K. Iheanacho,FWD,22.5,145
+14,122,Curty,O. Zinchenko,MID,27,149
+14,123,Zealand,T. Lamptey,DEF,14,140
+14,124,TomFM,T.Tomiyasu,DEF,16.5,141
+14,125,WorkTheSpace,C. Kouyate,DEF,15.75,141
+14,126,McKins,C. Wilson,FWD,24,144
+15,127,McKins,D. De Gea,GK,11.25,150
+15,128,WorkTheSpace,T. Ndombele,MID,20,144
+15,129,TomFM,J. Moutinho,MID,32.5,149
+15,130,Zealand,C. Gallagher,MID,21.5,137
+15,131,Curty,H. Bellerin,DEF,15.25,141
+15,132,Dave,E. Dier ,DEF,17.5,143
+15,133,SYC,D.Dalot,DEF,12,139
+15,134,SLF,A. Maitland-Niles,MID,4.3,141
+15,135,Lollujo,P.Fornals,MID,16.5,141
+16,136,Lollujo,Allan,MID,24,147
+16,137,SLF,A. Cresswell,DEF,4.3,140
+16,138,SYC,D.Origi,FWD,27,146
+16,139,Dave,M. Alonso,DEF,17.75,144
+16,140,Curty,R. Koch,DEF,10,136
+16,141,Zealand,H. Lloris,GK,30,148
+16,142,TomFM,T.Partey,MID,14.25,150
+16,143,WorkTheSpace,B. Davies,DEF,14,141
+16,144,McKins,V. Lindelof,DEF,20.5,145
+17,145,McKins,C. Pulisic,FWD,15,155
+17,146,WorkTheSpace,O. Watkins,FWD,15,141
+17,147,TomFM,O.Edouard,FWD,22.5,143
+17,148,Zealand,Y. Mina,DEF,12.5,139
+17,149,Curty,A. Ramsdale,GK,17,142
+17,150,Dave,V. Coufal ,DEF,4.3,140
+17,151,SYC,D.Van De Beek,MID,21,144
+17,152,SLF,M. Kean,FWD,21,144
+17,153,Lollujo,B.Godfrey,DEF,10.75,139
+18,154,Lollujo,J.Pickford,GK,19.25,145
+18,155,SLF,N. Pope,GK,15.75,140
+18,156,SYC,K.Walker-Peters,DEF,10.25,137
+18,157,Dave,J. Sa,GK,7.5,135
+18,158,Curty,C. Wood,FWD,10,135
+18,159,Zealand,B. Leno,GK,12.5,141
+18,160,TomFM,H.Barnes,MID,25.5,149
+18,161,WorkTheSpace,E. Konza,DEF,12.5,139
+18,162,McKins,K. Arrizabalaga,GK,3.8,144
