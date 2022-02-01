@@ -1,0 +1,62 @@
+``` r
+library(tidyverse)
+library(shiny)
+library(gt)
+library(shinydashboard)
+#> Warning: package 'shinydashboard' was built under R version 4.1.2
+#> 
+#> Attaching package: 'shinydashboard'
+#> The following object is masked from 'package:graphics':
+#> 
+#>     box
+options(scipen = 9999)
+library(reprex)
+#> Warning: package 'reprex' was built under R version 4.1.2
+
+Team_Names <- c("McKins","WorkTheSpace","TomFM","Zealand","Curty","DaveAzzopardi","SecondYellowCard","SweetLeftFoot","Lollujo")
+
+ui <- dashboardPage(title = "FMStreamer Showdown",skin = "purple",
+                    dashboardHeader(title = "FMSS"),
+                    dashboardSidebar(
+                      sidebarMenu(
+                        menuItem("Draft Review", tabName = "Draft_Review"))),
+                    dashboardBody(
+                      tabItems(
+                        tabItem(tabName = "Draft_Review",
+                                fixedRow(
+                                  column(width = 3,
+                                         actionButton("Data_Refresh","Refresh Data"),
+                                         box(width = NULL, height = 440,
+                                             plotOutput(outputId = "Draft_Review_Positional_Graph_FWD")
+                                         )
+                                  )
+                                )
+                        )
+                      )
+                    )
+)
+
+server <- function(input,output,session) {
+  draft_picks <- eventReactive(input$Data_Refresh, {
+    read.csv(url("https://raw.githubusercontent.com/rogers1000/fmss/main/draft_picks_test1.csv")) %>%
+      filter(Player != "")
+  })
+  fwd <- draft_picks() %>%
+    filter(Position == "FWD") %>%
+    summarise(Frequency = n()) %>%
+    ungroup()
+  fwd_not_selected <- data.frame(Team_Name = c(Team_Names)) %>%
+    left_join(fwd, by = "Team_Name") %>%
+    mutate(Frequency = ifelse(is.na(Frequency),0,Frequency))
+  output$Draft_Review_Positional_Graph_FWD <- renderPlot(
+    ggplot(data = fwd_not_selected, aes(x = Frequency)) +
+      geom_histogram()
+  )
+}
+
+shinyApp(ui,server)
+```
+
+<div style="width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;" class="muted well">Shiny applications not supported in static R Markdown documents</div>
+
+<sup>Created on 2022-02-01 by the [reprex package](https://reprex.tidyverse.org) (v2.0.1)</sup>
