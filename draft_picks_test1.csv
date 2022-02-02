@@ -17,15 +17,15 @@ Round,Pick,Team_ID,Team_Name,Player,Position,Value,CA
 2,16,Team3,TomFM,A. Laporte,DEF,59000000,168
 2,17,Team2,WorkTheSpace,K. Zouma,DEF,38000000,156
 2,18,Team1,McKins,J. Ward-Prowse,MID,25500000,148
-3,19,Team1,McKins,,,,
-3,20,Team2,WorkTheSpace,,,,
-3,21,Team3,TomFM,,,,
-3,22,Team4,Zealand,,,,
-3,23,Team5,Curty,,,,
-3,24,Team6,DaveAzzopardi,,,,
-3,25,Team7,SecondYellowCard,,,,
-3,26,Team8,SweetLeftFoot,,,,
-3,27,Team9,Lollujo,,,,
+3,19,Team1,McKins,R. Sterling,FWD,30000000,167
+3,20,Team2,WorkTheSpace,T. Alexander-Arnold,DEF,25500000,159
+3,21,Team3,TomFM,A. Robertson,DEF,35500000,159
+3,22,Team4,Zealand,J. Henderson,MID,43500000,159
+3,23,Team5,Curty,D. Calvert-Lewin,FWD,34000000,152
+3,24,Team6,DaveAzzopardi,R. Jimenez,FWD,34000000,152
+3,25,Team7,SecondYellowCard,A. Rudiger,DEF,43000000,159
+3,26,Team8,SweetLeftFoot,J. Matip,DEF,38000000,156
+3,27,Team9,Lollujo,J.Gomez,DEF,34000000,153
 4,28,Team9,Lollujo,,,,
 4,29,Team8,SweetLeftFoot,,,,
 4,30,Team7,SecondYellowCard,,,,
