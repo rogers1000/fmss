@@ -26,138 +26,138 @@ Round,Pick,Team_ID,Team_Name,Player,Position,Value,CA
 3,25,Team7,SecondYellowCard,A. Rudiger,DEF,43000000,159
 3,26,Team8,SweetLeftFoot,J. Matip,DEF,38000000,156
 3,27,Team9,Lollujo,J.Gomez,DEF,34000000,153
-4,28,Team9,Lollujo,,,,
-4,29,Team8,SweetLeftFoot,,,,
-4,30,Team7,SecondYellowCard,,,,
-4,31,Team6,DaveAzzopardi,,,,
-4,32,Team5,Curty,,,,
-4,33,Team4,Zealand,,,,
-4,34,Team3,TomFM,,,,
-4,35,Team2,WorkTheSpace,,,,
-4,36,Team1,McKins,,,,
-5,37,Team1,McKins,,,,
-5,38,Team2,WorkTheSpace,,,,
-5,39,Team3,TomFM,,,,
-5,40,Team4,Zealand,,,,
-5,41,Team5,Curty,,,,
-5,42,Team6,DaveAzzopardi,,,,
-5,43,Team7,SecondYellowCard,,,,
-5,44,Team8,SweetLeftFoot,,,,
-5,45,Team9,Lollujo,,,,
-6,46,Team9,Lollujo,,,,
-6,47,Team8,SweetLeftFoot,,,,
-6,48,Team7,SecondYellowCard,,,,
-6,49,Team6,DaveAzzopardi,,,,
-6,50,Team5,Curty,,,,
-6,51,Team4,Zealand,,,,
-6,52,Team3,TomFM,,,,
-6,53,Team2,WorkTheSpace,,,,
-6,54,Team1,McKins,,,,
-7,55,Team1,McKins,,,,
-7,56,Team2,WorkTheSpace,,,,
-7,57,Team3,TomFM,,,,
-7,58,Team4,Zealand,,,,
-7,59,Team5,Curty,,,,
-7,60,Team6,DaveAzzopardi,,,,
-7,61,Team7,SecondYellowCard,,,,
-7,62,Team8,SweetLeftFoot,,,,
-7,63,Team9,Lollujo,,,,
-8,64,Team9,Lollujo,,,,
-8,65,Team8,SweetLeftFoot,,,,
-8,66,Team7,SecondYellowCard,,,,
-8,67,Team6,DaveAzzopardi,,,,
-8,68,Team5,Curty,,,,
-8,69,Team4,Zealand,,,,
-8,70,Team3,TomFM,,,,
-8,71,Team2,WorkTheSpace,,,,
-8,72,Team1,McKins,,,,
-9,73,Team1,McKins,,,,
-9,74,Team2,WorkTheSpace,,,,
-9,75,Team3,TomFM,,,,
-9,76,Team4,Zealand,,,,
-9,77,Team5,Curty,,,,
-9,78,Team6,DaveAzzopardi,,,,
-9,79,Team7,SecondYellowCard,,,,
-9,80,Team8,SweetLeftFoot,,,,
-9,81,Team9,Lollujo,,,,
-10,82,Team9,Lollujo,,,,
-10,83,Team8,SweetLeftFoot,,,,
-10,84,Team7,SecondYellowCard,,,,
-10,85,Team6,DaveAzzopardi,,,,
-10,86,Team5,Curty,,,,
-10,87,Team4,Zealand,,,,
-10,88,Team3,TomFM,,,,
-10,89,Team2,WorkTheSpace,,,,
-10,90,Team1,McKins,,,,
-11,91,Team1,McKins,,,,
-11,92,Team2,WorkTheSpace,,,,
-11,93,Team3,TomFM,,,,
-11,94,Team4,Zealand,,,,
-11,95,Team5,Curty,,,,
-11,96,Team6,DaveAzzopardi,,,,
-11,97,Team7,SecondYellowCard,,,,
-11,98,Team8,SweetLeftFoot,,,,
-11,99,Team9,Lollujo,,,,
-12,100,Team9,Lollujo,,,,
-12,101,Team8,SweetLeftFoot,,,,
-12,102,Team7,SecondYellowCard,,,,
-12,103,Team6,DaveAzzopardi,,,,
-12,104,Team5,Curty,,,,
-12,105,Team4,Zealand,,,,
-12,106,Team3,TomFM,,,,
-12,107,Team2,WorkTheSpace,,,,
-12,108,Team1,McKins,,,,
-13,109,Team1,McKins,,,,
-13,110,Team2,WorkTheSpace,,,,
-13,111,Team3,TomFM,,,,
-13,112,Team4,Zealand,,,,
-13,113,Team5,Curty,,,,
-13,114,Team6,DaveAzzopardi,,,,
-13,115,Team7,SecondYellowCard,,,,
-13,116,Team8,SweetLeftFoot,,,,
-13,117,Team9,Lollujo,,,,
-14,118,Team9,Lollujo,,,,
-14,119,Team8,SweetLeftFoot,,,,
-14,120,Team7,SecondYellowCard,,,,
-14,121,Team6,DaveAzzopardi,,,,
-14,122,Team5,Curty,,,,
-14,123,Team4,Zealand,,,,
-14,124,Team3,TomFM,,,,
-14,125,Team2,WorkTheSpace,,,,
-14,126,Team1,McKins,,,,
-15,127,Team1,McKins,,,,
-15,128,Team2,WorkTheSpace,,,,
-15,129,Team3,TomFM,,,,
-15,130,Team4,Zealand,,,,
-15,131,Team5,Curty,,,,
-15,132,Team6,DaveAzzopardi,,,,
-15,133,Team7,SecondYellowCard,,,,
-15,134,Team8,SweetLeftFoot,,,,
-15,135,Team9,Lollujo,,,,
-16,136,Team9,Lollujo,,,,
-16,137,Team8,SweetLeftFoot,,,,
-16,138,Team7,SecondYellowCard,,,,
-16,139,Team6,DaveAzzopardi,,,,
-16,140,Team5,Curty,,,,
-16,141,Team4,Zealand,,,,
-16,142,Team3,TomFM,,,,
-16,143,Team2,WorkTheSpace,,,,
-16,144,Team1,McKins,,,,
-17,145,Team1,McKins,,,,
-17,146,Team2,WorkTheSpace,,,,
-17,147,Team3,TomFM,,,,
-17,148,Team4,Zealand,,,,
-17,149,Team5,Curty,,,,
-17,150,Team6,DaveAzzopardi,,,,
-17,151,Team7,SecondYellowCard,,,,
-17,152,Team8,SweetLeftFoot,,,,
-17,153,Team9,Lollujo,,,,
-18,154,Team9,Lollujo,,,,
-18,155,Team8,SweetLeftFoot,,,,
-18,156,Team7,SecondYellowCard,,,,
-18,157,Team6,DaveAzzopardi,,,,
-18,158,Team5,Curty,,,,
-18,159,Team4,Zealand,,,,
-18,160,Team3,TomFM,,,,
-18,161,Team2,WorkTheSpace,,,,
-18,162,Team1,McKins,,,,
+4,28,Team9,Lollujo,Ederson,GK,37500000,170
+4,29,Team8,SweetLeftFoot,Fabinho,MID,28500000,164
+4,30,Team7,SecondYellowCard,Gabriel,DEF,23000000,147
+4,31,Team6,DaveAzzopardi,P. Pogba,MID,63000000,168
+4,32,Team5,Curty,J. Stones,DEF,34000000,154
+4,33,Team4,Zealand,D. Rice,MID,32500000,152
+4,34,Team3,TomFM,J. Cancelo,DEF,39000000,158
+4,35,Team2,WorkTheSpace,M. Rashford,FWD,48000000,159
+4,36,Team1,McKins,H. Maguire,DEF,38000000,157
+5,37,Team1,McKins,K. Tierney,DEF,41000000,155
+5,38,Team2,WorkTheSpace,Fernandinho,MID,55000000,164
+5,39,Team3,TomFM,R. Mahrez,FWD,46000000,158
+5,40,Team4,Zealand,D. Ings,FWD,40000000,158
+5,41,Team5,Curty,C. Soyuncu,DEF,17500000,152
+5,42,Team6,DaveAzzopardi,R. Neves,MID,32500000,152
+5,43,Team7,SecondYellowCard,T. Soucek,MID,14250000,150
+5,44,Team8,SweetLeftFoot,E. Cavani,FWD,40000000,155
+5,45,Team9,Lollujo,T.Werner,FWD,40000000,154
+6,46,Team9,Lollujo,T.Silva,DEF,38000000,156
+6,47,Team8,SweetLeftFoot,Raphinha,FWD,38000000,154
+6,48,Team7,SecondYellowCard,M. Odegaard,MID,40000000,155
+6,49,Team6,DaveAzzopardi,T. Mings,DEF,16250000,140
+6,50,Team5,Curty,R. James,DEF,27000000,151
+6,51,Team4,Zealand,B. Saka,MID,40000000,150
+6,52,Team3,TomFM,M. Mount,MID,30000000,160
+6,53,Team2,WorkTheSpace,K. Havertz,MID,36000000,159
+6,54,Team1,McKins,J. Sancho,MID,30000000,162
+7,55,Team1,McKins,D. Jota,FWD,40000000,155
+7,56,Team2,WorkTheSpace,Alisson,GK,57000000,174
+7,57,Team3,TomFM,Jorginho,MID,43500000,156
+7,58,Team4,Zealand,L. Shaw,DEF,34000000,155
+7,59,Team5,Curty,L. Digne,DEF,12750000,150
+7,60,Team6,DaveAzzopardi,A. Telles,DEF,16500000,143
+7,61,Team7,SecondYellowCard,Jonny,DEF,21500000,147
+7,62,Team8,SweetLeftFoot,B. Chilwell,DEF,12750000,154
+7,63,Team9,Lollujo,T.Castagne,DEF,20500000,146
+8,64,Team9,Lollujo,G.Jesus,FWD,44000000,157
+8,65,Team8,SweetLeftFoot,E. Mendy,GK,45000000,161
+8,66,Team7,SecondYellowCard,S. Reguilon,DEF,20500000,146
+8,67,Team6,DaveAzzopardi,E. Martinez,GK,30000000,143
+8,68,Team5,Curty,I. Gundogan,MID,49500000,161
+8,69,Team4,Zealand,R. Pereira,DEF,19250000,151
+8,70,Team3,TomFM,K. Schmeichel,GK,11250000,150
+8,71,Team2,WorkTheSpace,W. Fofana,DEF,29000000,148
+8,72,Team1,McKins,Rodri,MID,42000000,157
+9,73,Team1,McKins,Y. Tielemans,MID,43500000,158
+9,74,Team2,WorkTheSpace,P. Foden,MID,40000000,155
+9,75,Team3,TomFM,A.Saint-Maximin,FWD,34000000,152
+9,76,Team4,Zealand,E. Buendia,MID,18000000,142
+9,77,Team5,Curty,M. Kovacic,MID,38000000,154
+9,78,Team6,DaveAzzopardi,P-E. Aubameyang,FWD,30000000,156
+9,79,Team7,SecondYellowCard,J. Vardy,FWD,44000000,157
+9,80,Team8,SweetLeftFoot,Thiago,MID,28500000,164
+9,81,Team9,Lollujo,K.Walker,DEF,35500000,156
+10,82,Team9,Lollujo,M.Cucurella,DEF,25500000,148
+10,83,Team8,SweetLeftFoot,N. Semedo,DEF,23000000,148
+10,84,Team7,SecondYellowCard,Y. Bissouma,MID,34000000,149
+10,85,Team6,DaveAzzopardi,H. Ziyech,MID,40000000,151
+10,86,Team5,Curty,I. Konate,DEF,10000000,136
+10,87,Team4,Zealand,W. Ndidi,MID,32500000,152
+10,88,Team3,TomFM,B.White,DEF,23000000,144
+10,89,Team2,WorkTheSpace,N. Keita,MID,38000000,152
+10,90,Team1,McKins,C. Azpilicueta,DEF,34000000,150
+11,91,Team1,McKins,J. Milner,MID,32500000,152
+11,92,Team2,WorkTheSpace,I. Toney,FWD,19500000,134
+11,93,Team3,TomFM,Rodrigo,FWD,27000000,148
+11,94,Team4,Zealand,C. Hudson-Odoi,MID,22500000,147
+11,95,Team5,Curty,F. Torres,FWD,15000000,150
+11,96,Team6,DaveAzzopardi,P. Porro,DEF,20500000,146
+11,97,Team7,SecondYellowCard,P-E. Hojbjerg,MID,23000000,146
+11,98,Team8,SweetLeftFoot,K. Ajer,DEF,14750000,141
+11,99,Team9,Lollujo,A.O-Chamberlain,MID,25500000,151
+12,100,Team9,Lollujo,J.Maddison,MID,25500000,148
+12,101,Team8,SweetLeftFoot,K. Phillips,MID,61000000,150
+12,102,Team7,SecondYellowCard,W.Boly,DEF,19000000,144
+12,103,Team6,DaveAzzopardi,A. Traore,MID,27000000,148
+12,104,Team5,Curty,S. McTominay,MID,23000000,144
+12,105,Team4,Zealand,M. Greenwood,FWD,27000000,148
+12,106,Team3,TomFM,L.Bailey,MID,32000000,151
+12,107,Team2,WorkTheSpace,K. Tsimikas,DEF,8500000,137
+12,108,Team1,McKins,A. Christensen,DEF,36000000,155
+13,109,Team1,McKins,A. Martial,FWD,28500000,149
+13,110,Team2,WorkTheSpace,S. Dallas,MID,25500000,148
+13,111,Team3,TomFM,J.Justin,DEF,16500000,143
+13,112,Team4,Zealand,A. Tuanzebe,DEF,11750000,138
+13,113,Team5,Curty,J. Lingard,MID,18000000,142
+13,114,Team6,DaveAzzopardi,J. Evans,DEF,25500000,149
+13,115,Team7,SecondYellowCard,S.Benrahma,MID,14000000,139
+13,116,Team8,SweetLeftFoot,Richarlison,FWD,15000000,148
+13,117,Team9,Lollujo,N.Ake,DEF,23000000,147
+14,118,Team9,Lollujo,A.Lacazette,FWD,24000000,146
+14,119,Team8,SweetLeftFoot,C. Coady,DEF,11750000,136
+14,120,Team7,SecondYellowCard,D.Henderson,GK,17000000,144
+14,121,Team6,DaveAzzopardi,K. Iheanacho,FWD,22500000,145
+14,122,Team5,Curty,O. Zinchenko,MID,27000000,149
+14,123,Team4,Zealand,T. Lamptey,DEF,14000000,140
+14,124,Team3,TomFM,T.Tomiyasu,DEF,16500000,141
+14,125,Team2,WorkTheSpace,C. Kouyate,DEF,15750000,141
+14,126,Team1,McKins,C. Wilson,FWD,24000000,144
+15,127,Team1,McKins,D. De Gea,GK,11250000,150
+15,128,Team2,WorkTheSpace,T. Ndombele,MID,20000000,144
+15,129,Team3,TomFM,J. Moutinho,MID,32500000,149
+15,130,Team4,Zealand,C. Gallagher,MID,21500000,137
+15,131,Team5,Curty,H. Bellerin,DEF,15250000,141
+15,132,Team6,DaveAzzopardi,E. Dier ,DEF,17500000,143
+15,133,Team7,SecondYellowCard,D.Dalot,DEF,12000000,139
+15,134,Team8,SweetLeftFoot,A. Maitland-Niles,MID,4300000,141
+15,135,Team9,Lollujo,P.Fornals,MID,16500000,141
+16,136,Team9,Lollujo,Allan,MID,24000000,147
+16,137,Team8,SweetLeftFoot,A. Cresswell,DEF,4300000,140
+16,138,Team7,SecondYellowCard,D.Origi,FWD,27000000,146
+16,139,Team6,DaveAzzopardi,M. Alonso,DEF,17750000,144
+16,140,Team5,Curty,R. Koch,DEF,10000000,136
+16,141,Team4,Zealand,H. Lloris,GK,30000000,148
+16,142,Team3,TomFM,T.Partey,MID,14250000,150
+16,143,Team2,WorkTheSpace,B. Davies,DEF,14000000,141
+16,144,Team1,McKins,V. Lindelof,DEF,20500000,145
+17,145,Team1,McKins,C. Pulisic,FWD,15000000,155
+17,146,Team2,WorkTheSpace,O. Watkins,FWD,15000000,141
+17,147,Team3,TomFM,O.Edouard,FWD,22500000,143
+17,148,Team4,Zealand,Y. Mina,DEF,12500000,139
+17,149,Team5,Curty,A. Ramsdale,GK,17000000,142
+17,150,Team6,DaveAzzopardi,V. Coufal ,DEF,4300000,140
+17,151,Team7,SecondYellowCard,D.Van De Beek,MID,21000000,144
+17,152,Team8,SweetLeftFoot,M. Kean,FWD,21000000,144
+17,153,Team9,Lollujo,B.Godfrey,DEF,10750000,139
+18,154,Team9,Lollujo,J.Pickford,GK,19250000,145
+18,155,Team8,SweetLeftFoot,N. Pope,GK,15750000,140
+18,156,Team7,SecondYellowCard,K.Walker-Peters,DEF,10250000,137
+18,157,Team6,DaveAzzopardi,J. Sa,GK,7500000,135
+18,158,Team5,Curty,C. Wood,FWD,10000000,135
+18,159,Team4,Zealand,B. Leno,GK,12500000,141
+18,160,Team3,TomFM,H.Barnes,MID,25500000,149
+18,161,Team2,WorkTheSpace,E. Konza,DEF,12500000,139
+18,162,Team1,McKins,K. Arrizabalaga,GK,3800000,144
