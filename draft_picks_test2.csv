@@ -1,14 +1,14 @@
 Round,Pick,Team_ID,Team_Name,Player
-1,1,Team1,McKins,
-1,2,Team2,WorkTheSpace,
-1,3,Team3,TomFM,
-1,4,Team4,Zealand,
-1,5,Team5,Curty,
-1,6,Team6,DaveAzzopardi,
-1,7,Team7,SecondYellowCard,
-1,8,Team8,SweetLeftFoot,
-1,9,Team9,Lollujo,
-2,10,Team9,Lollujo,
+1,1,Team1,McKins,H. Kane
+1,2,Team2,WorkTheSpace,C. Ronaldo
+1,3,Team3,TomFM,M. Salah
+1,4,Team4,Zealand,R. Lukaku
+1,5,Team5,Curty,S. Mane
+1,6,Team6,DaveAzzopardi,H-M. Son
+1,7,Team7,SecondYellowCard,M. Greenwood
+1,8,Team8,SweetLeftFoot,R. Firmino
+1,9,Team9,Lollujo,J. Grealish
+2,10,Team9,Lollujo,B. Silva
 2,11,Team8,SweetLeftFoot,
 2,12,Team7,SecondYellowCard,
 2,13,Team6,DaveAzzopardi,
